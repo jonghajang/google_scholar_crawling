@@ -8,6 +8,7 @@
 It is a code that curls article information on Google's scholar site using Python's request and BeautifulSoup.
 The imported information is saved in the form of a csv file, making it easy to save only the information you want.
 
+## Requirement
 
 * [request](https://pypi.org/project/requests/)
 * [BeautifulSoup](https://pypi.org/project/beautifulsoup4/)
