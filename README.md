@@ -1,4 +1,4 @@
-# google_scholar_crawling
+# Google_Scholar_Crawling
 
 
 ![capture](https://user-images.githubusercontent.com/66405055/101364373-d5c42580-38e5-11eb-97f9-2b59e3a0ddcb.PNG)
